@@ -3,7 +3,7 @@
 Projeto que tem como base a API pública, Open Weather, utilizada para acessar dados climáticos atuais do lugar pesquisado.
 
 ## 💻 Layout
-![Rocketflix](https://user-images.githubusercontent.com/111311581/217099870-8857334d-a899-427b-97bc-b96469a3d256.png)
+![giovanatiburtino github io_api-weather_](https://user-images.githubusercontent.com/111311581/221433874-4927cfb8-7322-49ef-946a-bfbb18f48869.png)
 
 ## 📺 Demonstração
 [Link do projeto](https://giovanatiburtino.github.io/api-weather/)
