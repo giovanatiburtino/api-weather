@@ -6,7 +6,7 @@ Projeto que tem como base a API pública, Open Weather, utilizada para acessar d
 ![Rocketflix](https://user-images.githubusercontent.com/111311581/217099870-8857334d-a899-427b-97bc-b96469a3d256.png)
 
 ## 📺 Demonstração
-[Link do projeto](https://giovanatiburtino.github.io/rocketflix/)
+[Link do projeto](https://giovanatiburtino.github.io/api-weather/)
 
 ## 💿 Como rodar este projeto?
 Para instalar o projeto, siga estas etapas:
