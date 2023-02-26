@@ -1,6 +1,6 @@
 # API Weather
 
-Projeto que tem como base a API pública, Open Weather, utilizada para acessar dados climáticos atuais do lugar pesquisado.
+Projeto que tem como base a API pública, Open Weather, utilizada para acessar dados climáticos atuais de uma cidade, país ou estado.
 
 ## 💻 Layout
 ![giovanatiburtino github io_api-weather_](https://user-images.githubusercontent.com/111311581/221433874-4927cfb8-7322-49ef-946a-bfbb18f48869.png)
